@@ -35,6 +35,5 @@ function destructivelyRemoveFirstKitten() {
 
 
 function appendKitten(name) {
-  kittens.slice(4);
-  return kittens
+  
 }
